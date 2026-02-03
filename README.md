@@ -29,7 +29,7 @@ ensuring that no internal services are directly exposed to the internet.
 
 > The Nextcloud service is never published directly to the internet.
 
-![Architecture Diagram](diagrams/architecture-final.png)
+![Netzwerk Architektur](netzwerk-diagramm.svg)
 
 ---
 
