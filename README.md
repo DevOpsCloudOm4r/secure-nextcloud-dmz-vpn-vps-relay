@@ -29,6 +29,9 @@ ensuring that no internal services are directly exposed to the internet.
   - VPN Tunnel Network  
 - **Service:** Nextcloud (HTTPS, hardened)  
 - **External Access:** VPS + WireGuard VPN  
+---
+## 📄 Documentation
+- [IHK Project Documentation (PDF)](docs/IHK-Projektdokumentation.pdf)
 
 ---
 
