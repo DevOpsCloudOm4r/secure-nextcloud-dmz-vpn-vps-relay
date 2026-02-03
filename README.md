@@ -4,6 +4,9 @@ Secure Nextcloud Architecture implemented as part of the IHK final project (Fach
 
 # Secure Nextcloud Architecture – DMZ & VPN Relay Design
 
+Production-ready Nextcloud deployment using Proxmox, OPNsense and WireGuard.
+External access is provided via a VPS relay – no port forwarding required.
+
 ## Project Overview
 This repository documents the design and implementation of a secure, self-hosted Nextcloud platform
 operated within a segmented network architecture.
