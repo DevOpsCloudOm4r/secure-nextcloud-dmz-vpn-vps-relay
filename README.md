@@ -27,10 +27,6 @@ ensuring that no internal services are directly exposed to the internet.
 - **Service:** Nextcloud (HTTPS, hardened)  
 - **External Access:** VPS + WireGuard VPN  
 
-> The Nextcloud service is never published directly to the internet.
-
-![Netzwerk Architektur](netzwerk-diagramm.svg)
-
 ---
 
 ## Access Paths
